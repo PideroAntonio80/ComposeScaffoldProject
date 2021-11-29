@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding_xsmall">2dp</dimen>
+    <dimen name="cell_min_width">150dp</dimen>
+    <dimen name="box_image_icon_height">200dp</dimen>
+    <dimen name="icon_size">92dp</dimen>
+    <dimen name="padding_default">16dp</dimen>
+</resources>
